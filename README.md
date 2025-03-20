@@ -8,3 +8,4 @@ Zsh autosuggestions
 Fast Syntax Highlighter 
 
 Credits to their original devs.
+Final release. Will not be updated any further.
